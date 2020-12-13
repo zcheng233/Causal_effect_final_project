@@ -1,4 +1,8 @@
-covidus <- read.csv("~/Downloads/covidus.csv")
+## Get the data from CDC at following link:
+## https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
+
+
+covidus <- read.csv("~/Downloads/covidus.csv") ## your raw data direction
 library(dplyr)
 data <- subset(covidus, death_yn == "Yes")
 data %>% count(age_group)
