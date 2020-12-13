@@ -14,11 +14,13 @@ This repository contains:
 
 * an interactive Jupyter notebook for Simpson's paradox and mediation analysis of age-related causal effects on case fatality rates;
 
-* an R script US data process.R for processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
+* an R script `US data process.R` for processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
 
-* the output data from R script as trend.csv for mediation analysis in Jupyter notebook.
+* the output data from R script as `trend.csv` for mediation analysis in Jupyter notebook.
 
-To reproduce what we have done, use 
+To reproduce exactly what we have done, use notebook and `trend.csv` for tracing causal effect over time between China and the US.
+
+To use new data from CDC for tracing causal effect over time, download it from CDC website above and process it with `US data process.R` to output a new desired `trend.csv` for application in notebook.
 
 We modified codes from github https://github.com/Juliusvk/Covid19-age-related-causal-effects which published as part of the following paper:
 "Simpson's paradox in Covid-19 case fatality rates: a mediation analysis of age-related causal effects". J von Kügelgen*, L Gresele*, B Schölkopf. (*equal contribution). https://arxiv.org/abs/2005.07180
