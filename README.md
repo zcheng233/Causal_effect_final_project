@@ -5,8 +5,11 @@
 
 This repository contains:
 
+
 age-stratified Covid-19 case and fatality data for US and at different points in time, and
+
 an interactive Jupyter notebook for mediation analysis of age-related causal effects on case fatality rates,
+
 R script of cleaning the US data.
 
 
