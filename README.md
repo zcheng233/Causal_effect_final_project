@@ -10,7 +10,7 @@ Our project mainly focused on data analysis of Covid-19 case fatality rate (CFR)
 
 This repository contains:
 
-* our project write-up;
+* our project write-up **'stat256_final_project.pdf'**;
 
 * an interactive Jupyter notebook for Simpson's paradox and mediation analysis of age-related causal effects on case fatality rates;
 
@@ -18,6 +18,7 @@ This repository contains:
 
 * the output data from R script as trend.csv for mediation analysis in Jupyter notebook.
 
+To reproduce what we have done, use 
 
 We modified codes from github https://github.com/Juliusvk/Covid19-age-related-causal-effects which published as part of the following paper:
 "Simpson's paradox in Covid-19 case fatality rates: a mediation analysis of age-related causal effects". J von Kügelgen*, L Gresele*, B Schölkopf. (*equal contribution). https://arxiv.org/abs/2005.07180
