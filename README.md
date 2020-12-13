@@ -18,7 +18,7 @@ This repository contains:
 
 * the output data from R script as `trend.csv` for mediation analysis in Jupyter notebook.
 
-To reproduce exactly what we have done, use `notebook_causal.ipynb` and `trend.csv` for tracing causal effect over time between China and the US.
+To reproduce exactly what we have done as stated in the write-up, use `notebook_causal.ipynb` and `trend.csv` for tracing causal effect over time between China and the US.
 
 To use new data from CDC for tracing causal effect over time, download it from CDC website above and process it with `US data process.R` to output a new desired `trend.csv` for application in `notebook_causal.ipynb`.
 
