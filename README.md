@@ -4,13 +4,13 @@ This is for STAT 256 final project.
 
 Our project mainly focused on data analysis of Covid-19 case fatality rate (CFR), which contains two parts:
 
-1. age-related Simpson paradox in CFR 
+1. age-related Simpson's paradox in CFR 
 
 2. Mediation analysis using age as mediator
 
 This repository contains:
 
-* an interactive Jupyter notebook for mediation analysis of age-related causal effects on case fatality rates;
+* an interactive Jupyter notebook for Simpson's paradox and mediation analysis of age-related causal effects on case fatality rates;
 
 * an R script US data process.R for processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
 
