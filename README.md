@@ -1,6 +1,6 @@
 # Causal_effect_final_project
 
-
+This is for STAT 256 final project.
 
 
 This repository contains:
