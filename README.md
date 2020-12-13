@@ -14,7 +14,7 @@ This repository contains:
 
 * R script US data process.R of processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
 
-* the output from R script as US data trend.csv for mediation analysis in Jupyter notebook.
+* the output data from R script as trend.csv for mediation analysis in Jupyter notebook.
 
 
 We modified codes from github https://github.com/Juliusvk/Covid19-age-related-causal-effects which published as part of the following paper:
