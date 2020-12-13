@@ -10,6 +10,8 @@ Our project mainly focused on data analysis of Covid-19 case fatality rate (CFR)
 
 This repository contains:
 
+* our project write-up;
+
 * an interactive Jupyter notebook for Simpson's paradox and mediation analysis of age-related causal effects on case fatality rates;
 
 * an R script US data process.R for processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
