@@ -12,7 +12,7 @@ This repository contains:
 
 * an interactive Jupyter notebook for mediation analysis of age-related causal effects on case fatality rates;
 
-* R script US data process.R of processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
+* an R script US data process.R for processing the raw US data from CDC website https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf;
 
 * the output data from R script as trend.csv for mediation analysis in Jupyter notebook.
 
